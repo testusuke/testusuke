@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# Working&Learning
+Java Kotlin C++ C# Python SQL. 
+# Want To Learn
+Ruby HTML/CSS JavaScript.  
 <!--
 **testusuke/testusuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
